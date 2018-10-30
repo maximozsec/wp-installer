@@ -61,7 +61,7 @@ username?" 0 0
 if [ "$?" = "1" ] ; then
 	user=$( dialog --stdout --inputbox "Set WordPress username:" 0 0 )
 fi
-
+dfgfdggdfgdfgfdg
 dialog --title "setting variables" --msgbox \
 "[Server Root] = $server_root \
 [Database name] = $database \
